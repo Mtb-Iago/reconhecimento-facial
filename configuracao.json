@@ -1,0 +1,65 @@
+{
+    "personagens": [
+        {
+            "nome": "Neo",
+            "habilidades": "Todas as habilidades, é o ESCOLHIDO", 
+            "fotos": [
+                "./faces/neo1.jpeg",
+                "./faces/neo2.jpeg",
+                "./faces/neo3.jpeg"
+            ],
+            "permissao": true
+        },
+        {
+            "nome": "Morpheus",
+            "habilidades": "Encontrou o escolhido", 
+            "fotos": [
+                "./faces/morpheus1.jpeg",
+                "./faces/morpheus2.jpeg",
+                "./faces/morpheus3.jpeg"
+    
+            ],
+            "permissao": true
+        },
+        {
+            "nome": "Trinity",
+            "habilidades": "É a escolhida do escolhido", 
+            "fotos": [
+                "./faces/trinity1.jpeg",
+                "./faces/trinity2.jpeg",
+                "./faces/trinity3.jpeg"
+            ],
+            "permissao": true
+        },
+        {
+            "nome": "Agente Smith",
+            "habilidades": "Esquiva de balas, é o vilão da história, um vírus!!!", 
+            "fotos": [
+                "./faces/smith1.jpeg",
+                "./faces/smith2.jpeg",
+                "./faces/smith3.jpeg"
+            ],
+            "permissao": false
+        },
+        {
+            "nome": "Cypher",
+            "habilidades": "É o traidor", 
+            "fotos": [
+                "./faces/smith1.jpeg",
+                "./faces/smith2.jpeg",
+                "./faces/smith3.jpeg"
+            ],
+            "permissao": false
+        },
+        {
+            "nome": "Agente Brown",
+            "habilidades": "É o parceiro do Smith", 
+            "fotos": [
+                "./faces/mascara1.jpeg",
+                "./faces/mascara2.jpeg",
+                "./faces/mascara3.jpeg"
+            ],
+            "permissao": false
+        }               
+    ]
+}
