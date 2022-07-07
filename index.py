@@ -28,11 +28,7 @@ FOTOS_VISITANTES = [
     
     "faces/sentinelas1.jpeg",
     "faces/sentinelas2.jpeg",
-    "faces/sentinelas3.jpeg",
-    
-    "faces/bugs1.jpeg",
-    "faces/bugs2.jpeg",
-    "faces/bugs3.jpeg",
+    "faces/sentinelas3.jpeg"
 ]
 ARQUIVO_CONFIGURACAO = "./configuracao.json"
 
@@ -62,7 +58,7 @@ def reconhecer_personagem():
         return reconhecido, mensagem, dados
 
     personagens_configuracao = carregar_arquivos()
-    reconhecido = False
+
     total_reconhecimentos = 0
     for personagem in personagens_configuracao["personagens"]:
         
