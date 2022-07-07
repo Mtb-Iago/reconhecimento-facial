@@ -6,7 +6,7 @@
 ### Execute o código:
     python3 index.py
 
-````Atividade desenvolvida na disciplina de DDI ministrada pelo professor Drº Luis Paulo````
+````Atividade desenvolvida na disciplina de IHM ministrada pelo professor Drº Luis Paulo````
 <br>
 
 ```Iago Oliveira - 2022```
